@@ -1,0 +1,4 @@
+cryptography==42.0.8
+Flask==3.0.3F
+Flask-Cors==4.0.1
+gunicorn==22.0.0
